@@ -51,19 +51,30 @@ left: 0;
 <div class="parallax"></div>
 <div style="height:1000px;background-color:pink">
 
-<h1> Japan </h1>
+h1 {
+ font-size: 55px;
+ }
+h2 {
+ font-size: 45px;
+ }
+ p1 {
+ font-size: 20px;
+ }
 
-<h2> Introduction </h2>
 
-<p1> 
-Japan is a island country located off the east coast of Asia, and is widely considered to be the most successful Asian country till date. Japan is a beautiful country, filled with rich history, natural sites, manmade wonders and treats for people who delve into eastern culture.
-</p1>
 
-<h3> Why Visit? <h3>
+<h1> Japan </h1> 
 
-<p2>
+<h2> Introduction </h2> 
+
+<p1>Japan is a island country located off the east coast of Asia, and is widely considered to be the most successful Asian country till date. Japan is a beautiful country, filled with rich history, natural sites, manmade wonders and treats for people who delve into eastern culture.</p1>
+
+
+ Why Visit? 
+
+
 You might be wndering, why should I pay thousands of dollars to visit a lame island off the coast of Asia. It probably another lame Eastern country. Well you, my friend, are the one tha'll miss out. Japan has something for everyone. From the historical sites and studies such as the age of rice kingdoms, age of shoguns or more recent, the WW2. Japan is known as the heart of art and culture. Through it's unique period in which the entire country went through the phase of art, literature, poetry to the more recent succesful version of Japanese art, Manga and Anime. Fans of mangas and animes alike would love to visit Japan, the birth of their facourite animated stories. From classic animes such as Astroboy to the 2000 hit, Naruto, to the more recently popular and world wide loved My Hero Academia, Japan is a place where anime comes to life.
-</p2>
+
 
 </div>
 
