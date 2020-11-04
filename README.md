@@ -82,8 +82,8 @@ Today we will run down on what there is in Japan, the top 5 sites, what to do in
 
 <img src="file:///C:/Users/Pradip%20Panta/Desktop/My%20Gif%201.gif" alt="scroll in vid" style="width:900px;height:900px;">
 
-<img src="ni hon.png" alt="Ni Hon" style="width:400px;height:400px;">
-<img src="japan mate.jpg" alt="Japan Map" style="width:400px;height:400px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nihon.png" alt="Ni Hon" style="width:400px;height:400px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Regions_and_Prefectures_of_Japan_no_labels.svg" alt="Japan Map" style="width:400px;height:400px;">
 </body>
 </html>
 
